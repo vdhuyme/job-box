@@ -1,6 +1,6 @@
 <div>
     <div class="page-content">
-        <div class="container-fluid mt-5">
+        <div class="container mt-5">
             <div class="row mt-n5">
                 <div class="col-lg-3">
                     <x-user.user.sidebar-profile-layout></x-user.user.sidebar-profile-layout>
@@ -41,7 +41,7 @@
 
                         @if(! $jobs->count())
                             <div class="col-lg-12">
-                                <div class="card shadow-lg">
+                                <div class="card">
                                     <div class="card-body">
                                         <x-admin.empty></x-admin.empty>
                                     </div>

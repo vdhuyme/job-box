@@ -1,6 +1,6 @@
 <div>
     <div class="page-content">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-4">
                     <x-admin.card>

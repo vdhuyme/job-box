@@ -1,6 +1,6 @@
 <div>
     <div class="page-content">
-        <div class="container-fluid">
+        <div class="container">
             <div class="col-lg-12">
                 <div class="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-1">
                     @foreach($students as $student)
